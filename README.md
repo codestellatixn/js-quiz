@@ -2,7 +2,7 @@
 A simple multiple-choice quiz built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
-[Quiz UI](screenshot.png)
+![Quiz UI](./images/screenshot.png)
 
 ## 🚀 Live Demo
 [Click here to view](https://codestellatixn.github.io/js-quiz/)
