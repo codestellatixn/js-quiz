@@ -2,7 +2,7 @@
 A simple multiple-choice quiz built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
-![Quiz UI](screenshot.png)
+[Quiz UI](screenshot.png)
 
 ## 🚀 Live Demo
 [Click here to view](https://codestellatixn.github.io/js-quiz/)
@@ -34,3 +34,6 @@ cd quiz-app
 
 # Open in VSCode
 code .
+```
+## 📄 License
+This project is open-source. Feel free to modify and use it as you like!
